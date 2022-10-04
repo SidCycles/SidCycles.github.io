@@ -16,16 +16,16 @@ BODY
 {
     width: 100%;
     height: 100px;
-    background-color:LightGreen;
+    background-color:lime;
 }
 .KKCAFooter {
     vertical-align: bottom;
     width: 100%;
     height: 50px;
-    background-color:LightGreen;
+    background-color: lime;
 }
 .KKCAMenu {
     width: 100%;
     height: 40px;
-    background-color:LightGreen;
+    background-color: lime;
 }
