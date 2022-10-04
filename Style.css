@@ -1,0 +1,133 @@
+﻿body 
+{
+	font-family: Arial;		
+	background-color:#6699CC;
+}
+
+.pagebody
+{	
+	background-color:White;
+	width:100%;
+	margin: 0 0 0 0;
+	padding:0 0 0 0;
+		
+}
+
+ul
+{
+    list-style-image:url(images/aball1f.gif);    
+}
+
+li
+{
+	padding-bottom:10px;	
+}
+
+
+.pagetitle     
+{ 
+font-SIZE: 36px;
+font-FAMILY: Verdana, Arial;
+font-WEIGHT: bold;
+BORDER-WIDTH: 2px;
+MARGIN: 4px; 
+COLOR: white;
+} 
+
+.pagesubtitle     
+{ 
+font-SIZE: 12px;
+font-FAMILY: Verdana, Arial;
+font-WEIGHT: bold;
+BORDER-WIDTH: 2px;
+COLOR: white;
+margin:0 0 0 20px;
+} 
+
+.line
+{
+	color: Blue;
+}
+
+td.leftpanel 
+{	
+	width:200px;
+	padding-right: 5px;	
+	padding-top: 10px;
+}
+
+td.centerpanel
+{	
+	width:500px;
+ padding-left: 5px;
+ padding-right: 5px;
+}
+
+td.rightpanel 
+{	
+	width:200px;
+}
+
+table.main
+{
+	width:100%;	
+}
+
+.pubtitle
+{
+	/*font-family:Times New Roman;*/
+	 font-weight:bold;
+	 font-size:larger;
+	 color:Blue;
+}
+
+.pubdetail
+{
+	 border-width:thin;
+	 border-color:Black;
+	 border-style:inset;
+	 margin:10px 10px 10px 10px;
+	 padding:5px 5px 5px 5px;
+}
+
+.pubpicture
+{
+	height:150px;	
+	margin:10px 10px 10px 10px;
+}
+
+.aefooter
+{
+	font-size:x-small;
+}
+
+.aered
+{
+	color:Red;
+	font-family:Comic Sans MS;	
+}
+
+a.aered
+{
+	text-decoration:none;	
+}
+
+.BlackHeader
+{
+	font-weight:bold;
+	/*font-size:12px;*/
+}
+
+/* jquery tutorial */
+.red
+{
+	background-color:Red;
+}
+.blue
+{
+	background-color:Blue;
+}
+.green
+{
+	background-color:Green;
+}
