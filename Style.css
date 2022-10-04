@@ -16,18 +16,16 @@ BODY
 {
     width: 100%;
     height: 100px;
-    background-color: #66ffff;
+    background-color:LightGreen;
 }
-.KKCAFooter
-{
-    vertical-align:bottom;
+.KKCAFooter {
+    vertical-align: bottom;
     width: 100%;
     height: 50px;
-    background-color: #66ffff;
+    background-color:LightGreen;
 }
-.KKCAMenu
-{
+.KKCAMenu {
     width: 100%;
     height: 40px;
-    background-color: #d5ffff;
+    background-color:LightGreen;
 }
